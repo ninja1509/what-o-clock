@@ -1,0 +1,37 @@
+*{
+    /* border: solid; */
+    text-align: center
+}
+
+p {
+    width: fit-content;
+    font-size: 80px;
+    display: inline-block;
+}
+
+input{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    font-size: 50px;
+}
+
+.time{
+    display: inline-block;
+    height:200px;
+    padding-left: 50px;
+}
+
+.text{
+    width: fit-content;
+    font-size: 40px;
+    display: inline-block;
+    margin-right:32px;
+}
+
+select{
+    width: 100px;
+    height: 50px;
+    display: inline-block;
+    font-size: 40px;
+}
